@@ -57,9 +57,7 @@ python detect.py --source path/to/image.jpg --weights yolov7.pt --conf 0.5
 python detect.py --source path/to/video.mp4 --weights yolov7.pt --conf 0.5
 ```
 
-## 📌 Contributors
 
-- **Hoàng Thế Cường**
 
-[![Fire Detection Demo](https://www.youtube.com/watch?v=QyNrtDEi6ng)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
+[![Fire Detection Demo](https://www.youtube.com/watch?v=KQ4b5rtMksc)](https://www.youtube.com/watch?v=KQ4b5rtMksc)
 
