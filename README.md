@@ -35,28 +35,6 @@ The trained YOLOv7 model is evaluated based on:
 - **Detection accuracy** on test images and videos
 - **Comparison with different YOLO versions** to analyze improvements
 
-## 📌 Installation
-
-```bash
-# Clone this repository
-git clone https://github.com/HoangCuong0811/YOLOv7
-
-```
-
-## 📌 Usage
-
-### 🔹 Detect fire in an image
-
-```bash
-python detect.py --source path/to/image.jpg --weights yolov7.pt --conf 0.5
-```
-
-### 🔹 Detect fire in a video
-
-```bash
-python detect.py --source path/to/video.mp4 --weights yolov7.pt --conf 0.5
-```
-
 
 
 [![Fire Detection Demo](https://www.youtube.com/watch?v=QyNrtDEi6ng)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
