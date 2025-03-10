@@ -67,4 +67,5 @@ python detect.py --source path/to/video.mp4 --weights yolov7.pt --conf 0.5
 - **Trần Đức Thịnh**
 - **Hoàng Thế Cường**
 
-![experimental video]()
+[![Fire Detection Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
+
