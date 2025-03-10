@@ -59,5 +59,5 @@ python detect.py --source path/to/video.mp4 --weights yolov7.pt --conf 0.5
 
 
 
-[![Fire Detection Demo](https://www.youtube.com/watch?v=KQ4b5rtMksc)](https://www.youtube.com/watch?v=KQ4b5rtMksc)
+[![Fire Detection Demo](https://www.youtube.com/watch?v=QyNrtDEi6ng)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
 
