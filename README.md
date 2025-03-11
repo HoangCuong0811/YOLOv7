@@ -1,5 +1,7 @@
 # Fire Detection using YOLOv7
 
+[![Fire Detection Demo](https://www.youtube.com/watch?v=QyNrtDEi6ng)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
+
 ## 📌 Introduction
 
 This project utilizes **YOLOv7** to detect **fire, smoke, and flames** in images and videos. YOLO (You Only Look Once) is a state-of-the-art deep learning model that enables real-time object detection with high accuracy and efficiency.
@@ -35,7 +37,4 @@ The trained YOLOv7 model is evaluated based on:
 - **Detection accuracy** on test images and videos
 - **Comparison with different YOLO versions** to analyze improvements
 
-
-
-[![Fire Detection Demo](https://www.youtube.com/watch?v=QyNrtDEi6ng)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
 
